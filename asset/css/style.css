@@ -1,0 +1,12 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Abyssinica SIL', sans-serif, 'Times New Roman', Times, serif ,serif;
+    background-color: antiquewhite;
+}
+
+
+.nav a{
+    color:white;
+}
